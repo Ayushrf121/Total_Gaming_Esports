@@ -19,7 +19,7 @@ const rajdhani = Rajdhani({
 
 export default function Hero() {
   return (
-    <section className={`relative w-full h-[calc(100vh-6rem)] bg-[#180B15] overflow-hidden ${rajdhani.className}`}>
+    <section className={`relative w-full h-[calc(100vh-6rem)] bg-[#000000] overflow-hidden ${rajdhani.className}`}>
       
       {/* Background Image Layer */}
       <div className="absolute inset-0 z-0">
@@ -31,7 +31,7 @@ export default function Hero() {
           className="object-cover object-center opacity-60" // Dimmed slightly for text readability
         />
         {/* Gradient overlay to blend with the dark theme */}
-        <div className="absolute inset-0 bg-gradient-to-t from-[#180B15] via-[#180B15]/40 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-[#000000] via-[#000000]/40 to-transparent"></div>
       </div>
 
       {/* Book Opening Animation Overlays (The "Covers") */}
@@ -39,13 +39,13 @@ export default function Hero() {
         variants={leftDoorVariant}
         initial="initial"
         animate="animate"
-        className="absolute inset-y-0 left-0 w-1/2 bg-[#180B15] border-r-2 border-[#FA5147] z-20 origin-left shadow-[20px_0_50px_rgba(0,0,0,0.5)]"
+        className="absolute inset-y-0 left-0 w-1/2 bg-[#000000] border-r-2 border-[#FA5147] z-20 origin-left shadow-[20px_0_50px_rgba(0,0,0,0.5)]"
       />
       <motion.div 
         variants={rightDoorVariant}
         initial="initial"
         animate="animate"
-        className="absolute inset-y-0 right-0 w-1/2 bg-[#180B15] border-l-2 border-[#FA5147] z-20 origin-right shadow-[-20px_0_50px_rgba(0,0,0,0.5)]"
+        className="absolute inset-y-0 right-0 w-1/2 bg-[#000000] border-l-2 border-[#FA5147] z-20 origin-right shadow-[-20px_0_50px_rgba(0,0,0,0.5)]"
       />
 
       {/* Main Content */}
@@ -58,7 +58,7 @@ export default function Hero() {
         >
           {/* Subtitle */}
           <motion.div variants={fadeUpVariant} className="mb-4">
-            <span className="bg-[#FA5147] text-[#180B15] px-6 py-3 text-lg font-bold tracking-[0.2em] uppercase clip-path-slant">
+            <span className="bg-[#FA5147] text-[#000000] px-6 py-3 text-lg font-bold tracking-[0.2em] uppercase clip-path-slant">
               The Undisputed Kings
             </span>
           </motion.div>

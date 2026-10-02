@@ -13,7 +13,7 @@ const rajdhani = Rajdhani({
 
 export default function WhoWeAre() {
   return (
-    <section className="relative w-full min-h-screen flex items-center bg-[#180B15] overflow-hidden py-20">
+    <section className="relative w-full min-h-screen flex items-center bg-[#000000] overflow-hidden py-20">
       
       {/* --- BACKGROUNDS --- */}
       <div className="absolute inset-0 z-0">
@@ -28,7 +28,7 @@ export default function WhoWeAre() {
       </div>
 
       {/* Lighter Gradient overlay: Dark enough behind the text for readability, but fades out so the GIF shines */}
-      <div className="absolute inset-0 z-0 bg-gradient-to-r from-[#180B15]/90 via-[#180B15]/50 to-transparent"></div>
+      <div className="absolute inset-0 z-0 bg-gradient-to-r from-[#000000]/90 via-[#000000]/50 to-transparent"></div>
 
       {/* --- CONTENT CONTAINER --- */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">

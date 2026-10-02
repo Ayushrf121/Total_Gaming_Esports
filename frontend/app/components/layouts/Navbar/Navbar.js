@@ -21,7 +21,7 @@ export default function Navbar() {
   return (
     <motion.nav 
       {...navbarWrapperVariant}
-      className="w-full bg-[#180B15] border-b border-[#FA5147]/20 sticky top-0 z-50"
+      className="w-full bg-[#000000] border-b border-[#FA5147]/20 sticky top-0 z-50"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-24">
