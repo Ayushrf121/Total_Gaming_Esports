@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Ajjubhai",
+    "role": "Owner",
+    "team": "IQOO TG Esports",
+    "image": "/players/Ajjubhai.png"
+  },
+  {
+    "name": "TG Fozy Ajay",
+    "role": "Coach",
+    "team": "IQOO TG Esports",
+    "image": "/players/Fozy.png"
+  },
+  {
+    "name": "TG Satty",
+    "role": "Manager",
+    "team": "IQOO TG Esports",
+    "image": "/players/Saty.png"
+  },
+  {
+    "name": "TG Mafia Bala",
+    "role": "Supporter",
+    "team": "IQOO TG Esports",
+    "image": "/players/MafiaBala.png"
+  },
+  {
+    "name": "TG Mafia",
+    "role": "Sniper",
+    "team": "IQOO TG Esports",
+    "image": "/players/Mafia.png"
+  },
+  {
+    "name": "TG Delete",
+    "role": "Rusher",
+    "team": "IQOO TG Esports",
+    "image": "/players/Delete.png"
+  },
+  {
+    "name": "TG Shanky",
+    "role": "Rusher",
+    "team": "IQOO TG Esports",
+    "image": "/players/Shanky.png"
+  },
+  {
+    "name": "TG Aztec",
+    "role": "IGL",
+    "team": "IQOO TG Esports",
+    "image": "/players/Aztec.png"
+  },
+  {
+    "name": "TG Wota",
+    "role": "Rusher",
+    "team": "IQOO TG Esports",
+    "image": "/players/Wota.png"
+  },
+  {
+    "name": "TG Karan",
+    "role": "Rusher",
+    "team": "IQOO TG Esports",
+    "image": "/players/Karan.png"
+  },
+  {
+    "name": "TG HuntOp",
+    "role": "Caster",
+    "team": "IQOO TG Esports",
+    "image": "/players/Rishabh.png"
+  },
+  {
+    "name": "TG Manish",
+    "role": "Content Creator",
+    "team": "IQOO TG Esports",
+    "image": "/players/Manish.png"
+  },
+  {
+    "name": "TG Arrow IB",
+    "role": "Content Creator",
+    "team": "IQOO TG Esports",
+    "image": "/players/ArrowIB.png"
+  }
+]

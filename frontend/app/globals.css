@@ -1,0 +1,39 @@
+@import "tailwindcss";
+body {
+  background-color: #180B15;
+  color: #ffffff;
+}
+@layer utilities {
+  .clip-path-slant {
+    clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+  }
+}
+/* Optional: Custom scrollbar to match the gaming vibe */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #180B15;
+}
+::-webkit-scrollbar-thumb {
+  background: #FA5147;
+  border-radius: 4px;
+}
+@layer utilities {
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+  
+  .animate-marquee:hover {
+    animation-play-state: paused;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}
