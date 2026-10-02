@@ -41,7 +41,7 @@ export default function MobileMenu({ pathname, isOpen, setIsOpen }) {
             {/* Slide-in Drawer */}
             <motion.div 
               {...mobileDrawerVariant}
-              className="fixed top-0 left-0 w-[60%] h-screen bg-[#180B15] border-r border-[#FA5147]/20 z-50 md:hidden overflow-y-auto"
+              className="fixed top-0 left-0 w-[60%] h-screen bg-[#000000] border-r border-[#FA5147]/20 z-50 md:hidden overflow-y-auto"
             >
               <div className="flex items-center justify-center h-24 border-b border-[#FA5147]/20">
                 <Image src="/Logo/official_logo.png" alt="Gaming Logo" width={60} height={38} className="object-contain" />
