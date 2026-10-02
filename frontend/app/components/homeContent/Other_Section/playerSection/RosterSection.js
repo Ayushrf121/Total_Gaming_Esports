@@ -17,7 +17,7 @@ export default function RosterSection() {
   const [selectedPlayer, setSelectedPlayer] = useState(null);
 
   return (
-    <section className="relative w-full min-h-screen bg-[#180B15] py-24 overflow-hidden">
+    <section className="relative w-full min-h-screen bg-[#000000] py-24 overflow-hidden">
       
       {/* Background Grid Pattern */}
       <div className="absolute inset-0 z-0 opacity-10 bg-[linear-gradient(rgba(255,255,255,0.05)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.05)_1px,transparent_1px)] bg-[size:40px_40px]"></div>

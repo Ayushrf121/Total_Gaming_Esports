@@ -48,11 +48,11 @@ export default function DesktopMenu({ pathname }) {
         </span>
 
         {/* Dropdown Menu Container */}
-        <div className="absolute top-full left-0 mt-4 w-52 bg-[#180B15] border-t-4 border-[#FA5147] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 shadow-2xl shadow-[#FA5147]/10">
+        <div className="absolute top-full left-0 mt-4 w-52 bg-[#000000] border-t-4 border-[#FA5147] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 shadow-2xl shadow-[#FA5147]/10">
           <ul className="flex flex-col py-2">
             {officialLinks.map((subLink, idx) => (
               <li key={idx}>
-                <Link href={subLink.path} className="block px-6 py-3 text-sm font-semibold text-white hover:bg-[#FA5147] hover:text-[#180B15] transition-colors">
+                <Link href={subLink.path} className="block px-6 py-3 text-sm font-semibold text-white hover:bg-[#FA5147] hover:text-[#000000] transition-colors">
                   {subLink.name}
                 </Link>
               </li>
