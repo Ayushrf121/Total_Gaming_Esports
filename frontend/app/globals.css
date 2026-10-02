@@ -1,6 +1,6 @@
 @import "tailwindcss";
 body {
-  background-color: #180B15;
+  background-color: #000000;
   color: #ffffff;
 }
 @layer utilities {
@@ -13,7 +13,7 @@ body {
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #180B15;
+  background: #000000;
 }
 ::-webkit-scrollbar-thumb {
   background: #FA5147;
