@@ -1,0 +1,143 @@
+{
+  "title": "OUR HISTORY",
+  "subtitle": "FROM THE FIRST BATTLE TO THE BIGGEST STAGES",
+  "milestones": [
+    {
+      "year": "2020",
+      "date": "2020-10-18",
+      "title": "Free Fire India Championship 2020 Fall",
+      "shortTitle": "FFIC 2020 Fall",
+      "placement": "1st",
+      "tier": "A-Tier",
+      "prize": "$30,635",
+      "type": "championship",
+      "image": "/Home_Images/History_Timeline/FF_India_Championship_2020.png",
+      "description": "The journey began on one of India's biggest competitive stages. Total Gaming claimed the top spot at FFIC 2020 Fall, putting their name on the national championship stage."
+    },
+    {
+      "year": "2020",
+      "date": "2020-11-29",
+      "title": "Free Fire Continental Series 2020: Asia",
+      "shortTitle": "FFCS 2020 Asia",
+      "placement": "8th",
+      "tier": "S-Tier",
+      "prize": "$14,000",
+      "type": "international",
+      "image": "/Home_Images/History_Timeline/FF_Continental.png",
+      "description": "The journey quickly moved beyond India. Total Gaming entered the Asian stage at FFCS 2020, competing internationally and finishing 8th in the S-Tier event."
+    },
+    {
+      "year": "2021",
+      "date": "2021-07-18",
+      "title": "Free Fire Pro League India 2021 Summer",
+      "shortTitle": "FFPL India 2021",
+      "placement": "1st",
+      "tier": "B-Tier",
+      "prize": "$20,099",
+      "type": "championship",
+      "image": "/Home_Images/History_Timeline/FF_Pro_League_India_Summer_2021.png",
+      "description": "The following season brought another major title. Total Gaming finished at the top of the Free Fire Pro League India 2021 Summer, adding another championship victory to the record."
+    },
+    {
+      "year": "2021",
+      "date": "2021-10-17",
+      "title": "Free Fire India Championship 2021 Fall",
+      "shortTitle": "FFIC 2021 Fall",
+      "placement": "3rd",
+      "tier": "A-Tier",
+      "prize": "$9,333",
+      "type": "championship",
+      "image": "/Home_Images/History_Timeline/FF_India_Championship_2021_Fall.png",
+      "description": "Back on the FFIC stage, Total Gaming once again reached the podium. A 3rd-place finish kept the team among the prominent competitors of India's championship circuit."
+    },
+    {
+      "year": "2022",
+      "date": "2022-01-14",
+      "title": "World Esports Cup: Grand Finals",
+      "shortTitle": "World Esports Cup",
+      "placement": "1st",
+      "tier": "A-Tier",
+      "prize": "$47,235",
+      "type": "championship",
+      "image": "/Home_Images/History_Timeline/WEC_Infinix.png",
+      "featured": true,
+      "description": "One of the defining moments of the early era arrived at the World Esports Cup. Total Gaming took 1st place in the Grand Finals, securing one of the biggest championship results of this chapter."
+    },
+    {
+      "year": "2022",
+      "date": "2022-01-26",
+      "title": "AMD Skyesports Pro League",
+      "shortTitle": "AMD Skyesports Pro League",
+      "placement": "1st",
+      "tier": "C-Tier",
+      "prize": "$1,333",
+      "type": "tournament",
+      "image": "/Home_Images/History_Timeline/Skyesports.png",
+      "description": "The winning run continued through January. Total Gaming followed the World Esports Cup victory with another 1st-place finish at the AMD Skyesports Pro League."
+    },
+    {
+      "year": "2022",
+      "date": "2022-08-11",
+      "title": "Rooter Streamers Brawl",
+      "shortTitle": "Rooter Streamers Brawl",
+      "placement": "2nd",
+      "tier": "B-Tier",
+      "prize": "$3,141",
+      "type": "tournament",
+      "image": "/Home_Images/History_Timeline/Rooter_Streamers_Brawl.png",
+      "description": "Later that year, Total Gaming returned to the competition and finished runner-up at the Rooter Streamers Brawl, adding another podium result to the 2022 record."
+    },
+    {
+      "year": "2025",
+      "date": "2025-09-28",
+      "title": "Free Fire MAX India Cup 2025",
+      "shortTitle": "FFMAX India Cup 2025",
+      "placement": "1st",
+      "tier": "A-Tier",
+      "prize": "$45,110",
+      "type": "double-trophy",
+      "featured": true,
+      "trophies": [
+        {
+          "mode": "BATTLE ROYALE",
+          "placement": "1st",
+          "tier": "A-Tier",
+          "prize": "$45,110",
+          "image": "/Home_Images/History_Timeline/FF_Continental.png"
+        },
+        {
+          "mode": "CLASH SQUAD",
+          "placement": "1st",
+          "tier": "Showmatch",
+          "prize": "$11,277",
+          "image": "/Home_Images/History_Timeline/FF_Continental.png"
+        }
+      ],
+      "description": "After returning to competitive play, Total Gaming made its presence felt immediately. At the Free Fire MAX India Cup 2025, the team secured 1st place in Battle Royale — and followed it with another 1st-place finish in the Clash Squad Showmatch."
+    },
+    {
+      "year": "2026",
+      "date": "2026-04-26",
+      "title": "Free Fire MAX India Cup 2026 Spring",
+      "shortTitle": "FFMAX India Cup 2026 Spring",
+      "placement": "3rd",
+      "tier": "A-Tier",
+      "prize": "$7,427",
+      "type": "championship",
+      "image": "/Home_Images/History_Timeline/FF_Continental.png",
+      "description": "The story continued into 2026. Total Gaming returned to the India Cup stage and secured another podium finish, taking 3rd place in the Spring edition."
+    },
+    {
+      "year": "2026",
+      "date": "2026-07-17",
+      "title": "Esports World Cup 2026",
+      "shortTitle": "EWC 2026",
+      "placement": "19th",
+      "tier": "S-Tier",
+      "prize": "$4,500",
+      "type": "international",
+      "image": "/Home_Images/History_Timeline/FF_Continental.png",
+      "description": "The journey reached another global stage at the Esports World Cup 2026. Total Gaming competed at the S-Tier event alongside teams from the international scene, finishing 19th."
+    }
+  ]
+}

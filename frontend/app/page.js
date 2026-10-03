@@ -4,6 +4,7 @@ import Hero from './components/homeContent/Hero_Section/Hero'
 import Marquee from './components/Marquee/Marquee'
 import WhoWeAre from './components/homeContent/Other_Section/WhoWeAre/WhoWeAre'
 import RosterSection from './components/homeContent/Other_Section/playerSection/RosterSection'
+import HistorySection from './components/homeContent/Other_Section/History/HistorySection'
 
 export default function page() {
   return (
@@ -13,6 +14,7 @@ export default function page() {
       <Marquee/>
       <WhoWeAre/>
       <RosterSection/>
+      <HistorySection/>
     </div>
   )
 }
