@@ -103,14 +103,14 @@
           "placement": "1st",
           "tier": "A-Tier",
           "prize": "$45,110",
-          "image": "/Home_Images/History_Timeline/FF_Continental.png"
+          "image": "/Home_Images/History_Timeline/FFMIC_2025_BR.png"
         },
         {
           "mode": "CLASH SQUAD",
           "placement": "1st",
           "tier": "Showmatch",
           "prize": "$11,277",
-          "image": "/Home_Images/History_Timeline/FF_Continental.png"
+          "image": "/Home_Images/History_Timeline/FFMIC_2025_CSR.png"
         }
       ],
       "description": "After returning to competitive play, Total Gaming made its presence felt immediately. At the Free Fire MAX India Cup 2025, the team secured 1st place in Battle Royale — and followed it with another 1st-place finish in the Clash Squad Showmatch."
@@ -124,7 +124,7 @@
       "tier": "A-Tier",
       "prize": "$7,427",
       "type": "championship",
-      "image": "/Home_Images/History_Timeline/FF_Continental.png",
+      "image": "/Home_Images/History_Timeline/FFM_India_Cup_2026_Spring.png",
       "description": "The story continued into 2026. Total Gaming returned to the India Cup stage and secured another podium finish, taking 3rd place in the Spring edition."
     },
     {
@@ -136,7 +136,7 @@
       "tier": "S-Tier",
       "prize": "$4,500",
       "type": "international",
-      "image": "/Home_Images/History_Timeline/FF_Continental.png",
+      "image": "/Home_Images/History_Timeline/Esports_World_Cup_2026.png",
       "description": "The journey reached another global stage at the Esports World Cup 2026. Total Gaming competed at the S-Tier event alongside teams from the international scene, finishing 19th."
     }
   ]
