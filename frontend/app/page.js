@@ -5,6 +5,7 @@ import Marquee from './components/Marquee/Marquee'
 import WhoWeAre from './components/homeContent/Other_Section/WhoWeAre/WhoWeAre'
 import RosterSection from './components/homeContent/Other_Section/playerSection/RosterSection'
 import HistorySection from './components/homeContent/Other_Section/History/HistorySection'
+import TournamentRecaps from './components/homeContent/Other_Section/TournamentsRecap/TournamentRecaps'
 
 export default function page() {
   return (
@@ -15,6 +16,7 @@ export default function page() {
       <WhoWeAre/>
       <RosterSection/>
       <HistorySection/>
+      <TournamentRecaps/>
     </div>
   )
 }
