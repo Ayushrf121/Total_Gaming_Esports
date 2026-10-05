@@ -48,7 +48,7 @@ export default function TournamentRecaps() {
               key={recap.id}
               whileHover={{ y: -6 }}
               transition={{ duration: 0.3 }}
-              className="group overflow-hidden border border-white/10 bg-[#080808]"
+              className="group overflow-hidden border rounded-2xl border-white/10 bg-[#080808]"
             >
 
               {/* VIDEO */}
